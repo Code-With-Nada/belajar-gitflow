@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <header className="bg-slate-600 w-full p-4">
+      <header className="bg-purple-700 w-full p-4">
         <div className="container mx-auto">
           <h1 className="text-white text-xl">Aplikasi Mencoba GITFLOW</h1>
         </div>
