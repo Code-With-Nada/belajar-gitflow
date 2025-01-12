@@ -6,9 +6,7 @@ function App() {
     <>
       <header className="bg-purple-700 w-full p-4">
         <div className="container mx-auto">
-          <h1 className="text-white text-xl font-bold">
-            Aplikasi Mencoba GITFLOW
-          </h1>
+          <h1 className="text-white text-xl font-bold">Article APP</h1>
         </div>
       </header>
       <main className="min-h-screen container mx-auto py-10">
