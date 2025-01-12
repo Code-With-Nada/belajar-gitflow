@@ -11,7 +11,7 @@ function App() {
           </h1>
         </div>
       </header>
-      <main className="container mx-auto py-10">
+      <main className="min-h-screen container mx-auto py-10">
         <article className="flex flex-col gap-2">
           <h2 className="text-xl font-semibold">Judul Artikel</h2>
           <p>
@@ -40,6 +40,11 @@ function App() {
           </p>
         </article>
       </main>
+      <footer className="p-4 bg-purple-700">
+        <div className="container mx-auto">
+          <p className="text-white text-center">Copyright @kodeku</p>
+        </div>
+      </footer>
     </>
   );
 }
